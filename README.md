@@ -23,7 +23,7 @@ Explore more in my repositories! 📚
 ---
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/Abhishekpandey)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-460a492a8/)
 - 🖥️ [Instagram](https://www.instagram.com/the_panditm/?hl=en)
 - ✉️ [Email Me](pandeymanan637@gmail.com)
 
