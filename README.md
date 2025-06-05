@@ -41,20 +41,19 @@ I'm a **passionate Data Analyst & Data Scientist** who thrives at the intersecti
 
 ### 📌 Highlight Projects
 
-🔹 [**Customer Segmentation using KMeans**](https://github.com/your_username/customer-segmentation)  
-🔹 [**Netflix Recommender System (Hybrid)**](https://github.com/your_username/netflix-recommender)  
-🔹 [**Twitter Sentiment Analysis for @CommBank**](https://github.com/your_username/twitter-analysis)  
-🔹 [**Sales Forecasting using Time Series (ARIMA, Prophet)**](https://github.com/your_username/sales-forecasting)
+🔹 [**Customer Segmentation using KMeans**](https://github.com/Iammanan07/Customer-segmentation-Using-K-means-Clustering)  
+🔹 [**Netflix Recommender System (Hybrid)**](https://github.com/Iammanan07/HYBRID-MOVIE-RECOMMENDER-)  
+🔹 [**Aviation Accident Analysis**](https://github.com/Iammanan07/Aviaation-accident-Analysis-EDA-)  
+🔹 [**Weather Prediction System[ Supervised ]**](https://github.com/Iammanan07/weather-prediction-system-)
 
-> 📖 Check out my [Medium Articles](https://medium.com/@your_handle) for deep dives into these projects!
+> 📖 Check out my [Medium Articles](https://shorturl.at/mGZoO) for deep dives into these projects!
 
 ---
 
 ### 🗣️ Let's Connect
 
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📬 [Email](mailto:your.email@example.com)  
-📝 [Portfolio](https://your-portfolio-link.com) *(if available)*
+🔗 [LinkedIn](https://shorturl.at/voBGb)  
+📬 [Email](mailto:Pandeymanan637@gmail.com)  
 
 ---
 
