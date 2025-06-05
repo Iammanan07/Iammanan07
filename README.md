@@ -1,48 +1,70 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! I'm **[Abhishek pandey]**, a [btech\cse student] who loves [Analyzing data,model building,cloud devlopement.. e.g., coding, solving problems, designing, etc.].  
-
----
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning **[AI\ML\CLOUD\DATA ANALYSIS]**  
-- 💬 Ask me about **[ML\DATA ANALYSIS]**  
-- 🎯 Goals for 2025: **[CLOUD\AI\ML]**  
+<h1 align="center">Hi there, I'm Abhishek Pandey 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%F0%9F%93%88;Data+Scientist+%F0%9F%A7%A0;Machine+Learning+Explorer+%F0%9F%A7%9C;Storytelling+with+Data+%F0%9F%8E%A8" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
-### Programming Languages  
-![Python]
-![C++]  
-![SQL] 
+### 👨‍💻 About Me
 
-### Data Analysis & Visualization  
-![Pandas]  
-![NumPy]  
-![Matplotlib]
-![Seaborn]  
-![Power BI]  
+I'm a **passionate Data Analyst & Data Scientist** who thrives at the intersection of **data, storytelling, and impact**. From unraveling patterns in messy datasets to building ML models that solve real-world problems, I love turning raw data into **meaningful narratives** and **actionable insights**.
 
-### Machine Learning & Deep Learning  
-![Scikit-learn]
-![TensorFlow]  
-![Keras]  
-![PyTorch] 
+🧠 **What I bring to the table**:
+- Data wrangling, cleaning, and visualization
+- Business intelligence and dashboard design
+- Machine learning and predictive modeling
+- Data storytelling and research-driven writing
+- Real-world problem solving through analytics
 
 ---
 
-## 📫 Let's Connect!
+### 🔧 Tools & Technologies
 
-- [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-460a492a8/)
-- [Instagram](https://www.instagram.com/the_panditm/?hl=en)  
-- 📧 Email: [pandeymanan637@gmail.com]
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)  
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+
+**Data & Visualization**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-4B8BBE?style=flat&logo=plotly)
+
+**Machine Learning & AI**  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
+![XGBoost](https://img.shields.io/badge/-XGBoost-008000?style=flat)
 
 ---
 
+### 📌 Highlight Projects
 
+🔹 [**Customer Segmentation using KMeans**](https://github.com/your_username/customer-segmentation)  
+🔹 [**Netflix Recommender System (Hybrid)**](https://github.com/your_username/netflix-recommender)  
+🔹 [**Twitter Sentiment Analysis for @CommBank**](https://github.com/your_username/twitter-analysis)  
+🔹 [**Sales Forecasting using Time Series (ARIMA, Prophet)**](https://github.com/your_username/sales-forecasting)
+
+> 📖 Check out my [Medium Articles](https://medium.com/@your_handle) for deep dives into these projects!
 
 ---
 
-Thanks for visiting! 😊 Feel free to explore my repositories and connect with me.
+### 🗣️ Let's Connect
+
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+📬 [Email](mailto:your.email@example.com)  
+📝 [Portfolio](https://your-portfolio-link.com) *(if available)*
+
+---
+
+### 💡 Fun Fact
+
+> I'm not just here to analyze numbers—I tell stories with data, build data products that matter, and thrive on transforming uncertainty into clarity. Let's connect and create something amazing together!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
