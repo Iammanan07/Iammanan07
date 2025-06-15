@@ -27,7 +27,6 @@ I’m a **passionate Data Analyst & Data Scientist** who thrives at the intersec
 ---
 
 ## 🔧 Tools & Technologies
-
 ### **Languages & Frameworks**
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
@@ -35,7 +34,9 @@ I’m a **passionate Data Analyst & Data Scientist** who thrives at the intersec
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
 </p>
+
 
 ### **Data & Visualization**
 <p align="left">
