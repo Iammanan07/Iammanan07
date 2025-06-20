@@ -1,12 +1,16 @@
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center">Hi there 👋, I'm Abhishek Pandey</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#6C63FF; font-size:3rem;">
+  ✨ Welcome to My Data-Driven Universe ✨<br/>
+  <span style="font-size: 1.5rem; color: #444;">I'm Abhishek Pandey — Turning Data into Decisions</span>
+</h1>
+
 <p align="center">
   <em>Data Scientist | Data Analyst | ML Engineer | AI Enthusiast | Cloud Explorer</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Solving+Real+World+Problems;With+ML+%26+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Intelligence;Solving+Business+Problems+with+ML;Engineering+Insights+that+Matter" alt="Typing SVG" />
 </p>
 
 ---
@@ -91,7 +95,7 @@
 
 <p align="center">
   <a href="mailto:Pandeymanan637@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-pandey-voBGb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-pandeya025/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://shorturl.at/mGZoO"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
