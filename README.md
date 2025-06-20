@@ -12,39 +12,70 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Transforming+Data+into+Intelligence;Solving+Business+Problems+with+ML;Engineering+Insights+that+Matter" alt="Typing SVG" />
 </p>
+---
+
+### 🌟 Tech Stack & Tools
+
+#### 🧪 Data Science & Analysis
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+#### 📊 Visualization & Dashboards
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F6EAA?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+#### 🤖 ML / Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-008000?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+#### 🚀 Deployment & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+#### ☁️ Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+#### 📀 Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+#### 🧰 Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### ✨ Technical Proficiency
-
-#### 🔍 **Data Exploration & Analysis**
-- Exploratory Data Analysis (EDA), data wrangling
-- pandas, NumPy, seaborn, matplotlib, missingno
-
-#### 📊 **Visualization & Dashboarding**
-- Power BI, Tableau, Plotly, Dash, Streamlit
-
-#### 🧠 **Machine Learning (Supervised/Unsupervised)**
-- Scikit-learn, XGBoost, CatBoost, LightGBM, SVM, Decision Trees, KMeans, PCA
-- Regression, Classification, Clustering, Dimensionality Reduction
-
-#### 🤖 **Deep Learning & AI**
-- TensorFlow, Keras, PyTorch, CNNs, RNNs, ANN architectures
-
-#### ⚖️ **Model Lifecycle**
-- Training, Evaluation (F1, AUC, RMSE, etc.), Tuning, Feature Engineering
-- Deployment: Flask, FastAPI, Streamlit, Docker, GitHub Actions
-
-#### ☁️ **Cloud & DevOps Tools**
-- AWS, GCP, Azure | Docker, Kubernetes, Airflow, Git, CI/CD
-
-#### 📂 **Databases**
-- SQL (MySQL, PostgreSQL), MongoDB, Redis
-
-#### 🌐 **Development Tools**
-- Git, GitHub, Jupyter Notebook, VS Code, Linux CLI
-
----
+<!-- Rest of the document remains unchanged -->
 
 ### 📂 Featured Projects
 
