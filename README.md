@@ -137,4 +137,7 @@ I’m a **passionate Data Analyst & Data Scientist** who thrives at the intersec
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iammanan07&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="YOUR_GENERATED_3D_SKYLINE_LINK" alt="3D GitHub Skyline" />
+</p>
 
