@@ -1,146 +1,108 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Abhishek Pandey | Data Scientist & Analyst</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <style>
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-      background: linear-gradient(to right, #141e30, #243b55);
-      color: #f8f8f8;
-      overflow-x: hidden;
-    }
-    header {
-      text-align: center;
-      padding: 4rem 1rem 2rem;
-      background: #0f2027;
-    }
-    header h1 {
-      font-size: 3.5rem;
-      color: #38bdf8;
-      margin-bottom: 1rem;
-    }
-    header p {
-      font-size: 1.2rem;
-      color: #cfd9df;
-    }
-    section {
-      padding: 3rem 5%;
-      animation: fadeIn 1.5s ease-in-out;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(30px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    h2 {
-      text-align: center;
-      margin-bottom: 2rem;
-      font-size: 2rem;
-      color: #ffd369;
-    }
-    .skills, .projects, .connect {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 1.5rem;
-    }
-    .card {
-      background: rgba(255,255,255,0.07);
-      border: 1px solid rgba(255,255,255,0.15);
-      border-radius: 16px;
-      padding: 1.5rem;
-      transition: all 0.3s;
-      backdrop-filter: blur(10px);
-    }
-    .card:hover {
-      transform: translateY(-5px) scale(1.02);
-      box-shadow: 0 0 15px rgba(255,255,255,0.1);
-    }
-    .btn {
-      display: inline-block;
-      margin-top: 1rem;
-      padding: 0.6rem 1.5rem;
-      background: #ff6b81;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 8px;
-      font-weight: bold;
-    }
-    .btn:hover {
-      background: #ff4757;
-    }
-    footer {
-      text-align: center;
-      padding: 1.5rem;
-      font-size: 0.9rem;
-      background: #0a0f1e;
-      color: #bbb;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1><i class="fas fa-laptop-code"></i> Abhishek Pandey</h1>
-    <p>Data Scientist | Data Analyst | ML Engineer | AI Enthusiast</p>
-  </header>
+<!-- README.md for GitHub Profile -->
 
-  <section>
-    <h2>🚀 Expertise & Skills</h2>
-    <div class="skills">
-      <div class="card">Exploratory Data Analysis (EDA)</div>
-      <div class="card">Data Visualization (Seaborn, Plotly, Power BI, Tableau)</div>
-      <div class="card">Supervised Learning (Regression, Classification)</div>
-      <div class="card">Unsupervised Learning (Clustering, PCA, Dimensionality Reduction)</div>
-      <div class="card">Deep Learning (TensorFlow & PyTorch)</div>
-      <div class="card">Model Training & Evaluation Metrics</div>
-      <div class="card">Model Deployment (Flask, Streamlit, Docker, CI/CD)</div>
-      <div class="card">SQL, NoSQL, MongoDB, Redis</div>
-    </div>
-  </section>
+<h1 align="center">Hi there 👋, I'm Abhishek Pandey</h1>
+<p align="center">
+  <em>Data Scientist | Data Analyst | ML Engineer | AI Enthusiast | Cloud Explorer</em>
+</p>
 
-  <section>
-    <h2>📂 Featured Projects</h2>
-    <div class="projects">
-      <div class="card">
-        <h3>🎬 Netflix Hybrid Recommender</h3>
-        <p>Combines NLP, collaborative & content filtering for smarter recommendations.</p>
-        <a href="https://github.com/Iammanan07/HYBRID-MOVIE-RECOMMENDER-" class="btn">GitHub Repo</a>
-      </div>
-      <div class="card">
-        <h3>📈 Weather Prediction System</h3>
-        <p>Time series regression model with live weather data predictions.</p>
-        <a href="https://github.com/Iammanan07/weather-prediction-system-" class="btn">GitHub Repo</a>
-      </div>
-      <div class="card">
-        <h3>✈️ Aviation Accident EDA</h3>
-        <p>Pattern analysis & visualization from global aviation crash data.</p>
-        <a href="https://github.com/Iammanan07/Aviaation-accident-Analysis-EDA-" class="btn">GitHub Repo</a>
-      </div>
-      <div class="card">
-        <h3>👥 Customer Segmentation</h3>
-        <p>KMeans & PCA for business user profiling.</p>
-        <a href="https://github.com/Iammanan07/Customer-segmentation-Using-K-means-Clustering" class="btn">GitHub Repo</a>
-      </div>
-    </div>
-  </section>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Solving+Real+World+Problems;With+ML+%26+Deep+Learning" alt="Typing SVG" />
+</p>
 
-  <section>
-    <h2>🔗 Connect with Me</h2>
-    <div class="connect">
-      <div class="card"><a href="mailto:Pandeymanan637@gmail.com"><i class="fas fa-envelope"></i> Email</a></div>
-      <div class="card"><a href="https://www.linkedin.com/in/abhishek-pandey-voBGb/"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
-      <div class="card"><a href="https://shorturl.at/mGZoO"><i class="fab fa-medium"></i> Medium Articles</a></div>
-    </div>
-  </section>
+---
 
-  <footer>
-    🚀 Always building. Always learning. Made with ❤️ by Abhishek Pandey
-    <br/>
-    👀 Profile Views Badge | 🌐 Live GitHub Skyline | ⚡ Add yours here
-  </footer>
-</body>
-</html>
+### ✨ Technical Proficiency
+
+#### 🔍 **Data Exploration & Analysis**
+- Exploratory Data Analysis (EDA), data wrangling
+- pandas, NumPy, seaborn, matplotlib, missingno
+
+#### 📊 **Visualization & Dashboarding**
+- Power BI, Tableau, Plotly, Dash, Streamlit
+
+#### 🧠 **Machine Learning (Supervised/Unsupervised)**
+- Scikit-learn, XGBoost, CatBoost, LightGBM, SVM, Decision Trees, KMeans, PCA
+- Regression, Classification, Clustering, Dimensionality Reduction
+
+#### 🤖 **Deep Learning & AI**
+- TensorFlow, Keras, PyTorch, CNNs, RNNs, ANN architectures
+
+#### ⚖️ **Model Lifecycle**
+- Training, Evaluation (F1, AUC, RMSE, etc.), Tuning, Feature Engineering
+- Deployment: Flask, FastAPI, Streamlit, Docker, GitHub Actions
+
+#### ☁️ **Cloud & DevOps Tools**
+- AWS, GCP, Azure | Docker, Kubernetes, Airflow, Git, CI/CD
+
+#### 📂 **Databases**
+- SQL (MySQL, PostgreSQL), MongoDB, Redis
+
+#### 🌐 **Development Tools**
+- Git, GitHub, Jupyter Notebook, VS Code, Linux CLI
+
+---
+
+### 📂 Featured Projects
+
+<table>
+  <tr>
+    <td><b>🎮 Netflix Recommender</b><br/>Hybrid NLP + Collaborative filtering model</td>
+    <td><a href="https://github.com/Iammanan07/HYBRID-MOVIE-RECOMMENDER-">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>📈 Weather Forecasting System</b><br/>Time-series weather prediction with visualization</td>
+    <td><a href="https://github.com/Iammanan07/weather-prediction-system-">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>✈️ Aviation EDA Dashboard</b><br/>Crash pattern analysis with visualization</td>
+    <td><a href="https://github.com/Iammanan07/Aviaation-accident-Analysis-EDA-">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>👥 Customer Segmentation</b><br/>KMeans clustering and market profiling</td>
+    <td><a href="https://github.com/Iammanan07/Customer-segmentation-Using-K-means-Clustering">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>📉 Customer Churn Predictor</b><br/>EDA, model training & deployed on Streamlit Cloud</td>
+    <td>
+      <a href="https://github.com/Iammanan07/Customer-Churn-Prediction-">🔗 GitHub</a> |
+      <a href="https://customerchurnanalyzer.streamlit.app/">🌐 Live</a>
+    </td>
+  </tr>
+</table>
+
+> 📖 For deep dives and technical breakdowns, check out my [Medium](https://shorturl.at/mGZoO) articles!
+
+---
+
+### 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iammanan07&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iammanan07&layout=compact&theme=radical" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iammanan07&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Iammanan07&theme=radical&margin-w=10&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:Pandeymanan637@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-pandey-voBGb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shorturl.at/mGZoO"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌚 Vision & Fun Fact
+
+> "I don't just analyze data — I tell **stories** with it, build **AI products** from it, and transform uncertainty into **actionable clarity**."
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iammanan07&style=flat-square&color=blue" alt="Profile Views" />
+  <br/>
+  <img src="https://github.com/Iammanan07/github-skyline/raw/main/skyline.gif" width="500" alt="3D Skyline" />
+</p>
