@@ -78,29 +78,49 @@
 <!-- Rest of the document remains unchanged -->
 
 ### 📂 Featured Projects
+<h3>📂 Featured Projects</h3>
 
 <table>
   <tr>
-    <td><b>🎮 Netflix Recommender</b><br/>Hybrid NLP + Collaborative filtering model</td>
-    <td><a href="https://github.com/Iammanan07/HYBRID-MOVIE-RECOMMENDER-">🔗 GitHub</a></td>
+    <td><strong>🧠 Smart Face Attendance System</strong><br>
+      OpenCV-based real-time facial recognition with LBPH, camera support, and modern UI
+    </td>
+    <td>
+      <a href="https://github.com/Iammanan07/Smart-Attendance-System">🔗 GitHub</a> |
+      <a href="https://smart-face-attendance-system-2.onrender.com/">🌐 Live</a>
+    </td>
   </tr>
   <tr>
-    <td><b>📈 Weather Forecasting System</b><br/>Time-series weather prediction with visualization</td>
-    <td><a href="https://github.com/Iammanan07/weather-prediction-system-">🔗 GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>✈️ Aviation EDA Dashboard</b><br/>Crash pattern analysis with visualization</td>
-    <td><a href="https://github.com/Iammanan07/Aviaation-accident-Analysis-EDA-">🔗 GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>👥 Customer Segmentation</b><br/>KMeans clustering and market profiling</td>
-    <td><a href="https://github.com/Iammanan07/Customer-segmentation-Using-K-means-Clustering">🔗 GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>📉 Customer Churn Predictor</b><br/>EDA, model training & deployed on Streamlit Cloud</td>
+    <td><strong>📉 Customer Churn Predictor</strong><br>
+      EDA, model training & deployed on Streamlit Cloud
+    </td>
     <td>
       <a href="https://github.com/Iammanan07/Customer-Churn-Prediction-">🔗 GitHub</a> |
       <a href="https://customerchurnanalyzer.streamlit.app/">🌐 Live</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎮 Netflix Recommender</strong><br>
+      Hybrid NLP + Collaborative filtering model
+    </td>
+    <td>
+      <a href="https://github.com/Iammanan07/HYBRID-MOVIE-RECOMMENDER-">🔗 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>✈️ Aviation EDA Dashboard</strong><br>
+      Crash pattern analysis with visualization
+    </td>
+    <td>
+      <a href="https://github.com/Iammanan07/Aviaation-accident-Analysis-EDA-">🔗 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>👥 Customer Segmentation</strong><br>
+      KMeans clustering and market profiling
+    </td>
+    <td>
+      <a href="https://github.com/Iammanan07/Customer-segmentation-Using-K-means-Clustering">🔗 GitHub</a>
     </td>
   </tr>
 </table>
