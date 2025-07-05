@@ -77,7 +77,6 @@
 
 <!-- Rest of the document remains unchanged -->
 
-### 📂 Featured Projects
 <h3>📂 Featured Projects</h3>
 
 <table>
