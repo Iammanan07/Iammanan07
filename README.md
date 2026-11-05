@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  Building software solutions, engineering data pipelines, and exploring intelligent applications.
+  Building software solutions, engineering data pipelines, and exploring intelligent applications..
 </p>
 
 <p align="center">
